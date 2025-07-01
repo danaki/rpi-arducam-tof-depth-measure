@@ -1,0 +1,6 @@
+ArducamDepthCamera
+opencv-python
+numpy<2.0.0
+pyransac3d
+scikit-learn
+scikit-spatial
